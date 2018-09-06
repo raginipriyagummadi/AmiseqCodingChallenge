@@ -1,0 +1,2 @@
+# AmiseqCodingChallenge
+For amiseq
