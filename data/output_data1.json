@@ -1,0 +1,91 @@
+{
+    "United Kingdom": {
+        "Commonwealth": [
+            "Commonwealth",
+            "Oliver Cromwell",
+            "Richard Cromwell"
+        ],
+        "House of Angevin": [
+            "Henry II",
+            "Richard I",
+            "John"
+        ],
+        "House of Blois": [
+            "Stephen"
+        ],
+        "House of Denmark": [
+            "Cnut",
+            "Harold I Harefoot",
+            "Harthacanut"
+        ],
+        "House of Hanover": [
+            "George I",
+            "George II",
+            "George III",
+            "George IV",
+            "William IV",
+            "Victoria"
+        ],
+        "House of Lancaster": [
+            "Henry IV",
+            "Henry V",
+            "Henry VI"
+        ],
+        "House of Normandy": [
+            "William I",
+            "William II",
+            "Henry I"
+        ],
+        "House of Orange": [
+            "William III"
+        ],
+        "House of Plantagenet": [
+            "Henry III",
+            "Edward I",
+            "Edward II",
+            "Edward III",
+            "Richard II"
+        ],
+        "House of Saxe-Coburg-Gotha": [
+            "Edward VII"
+        ],
+        "House of Stuart": [
+            "James I",
+            "Charles I",
+            "Charles II",
+            "James II",
+            "Anne"
+        ],
+        "House of Tudor": [
+            "Henry VII",
+            "Henry VIII",
+            "Edward VI",
+            "Mary I",
+            "Elizabeth I"
+        ],
+        "House of Wessex": [
+            "Edmund lronside",
+            "Edward the Confessor",
+            "Harold II",
+            "Edward the Elder",
+            "Athelstan",
+            "Edmund",
+            "Edred",
+            "Edwy",
+            "Edgar",
+            "Edward the Martyr",
+            "Ethelred II the Unready"
+        ],
+        "House of Windsor": [
+            "George V",
+            "Edward VIII",
+            "George VI",
+            "Elizabeth II"
+        ],
+        "House of York": [
+            "Edward IV",
+            "Edward V",
+            "Richard III"
+        ]
+    }
+}
